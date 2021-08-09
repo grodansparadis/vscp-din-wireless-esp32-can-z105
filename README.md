@@ -1,7 +1,7 @@
 # vscp-din-wireless-esp32
 ESP32 based CAN4VSCP FD controller in a single module DIN package with BT and wifi interface.
 
-**Note!** This is still a prototype.
+**Note!** This is still a prototype. ....
 
 ## PCB's
 ![Control Interface Top](./images/vscp-din-wireless-esp32-can-top.png)
