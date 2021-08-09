@@ -326,7 +326,7 @@ F 3 "~" H 6550 3000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	8900 5550 8900 5600
+	8900 5550 8900 5750
 $Comp
 L Connector_Generic:Conn_01x04 J2
 U 1 1 60A69D33
@@ -341,12 +341,12 @@ $EndComp
 $Comp
 L Connector_Generic:Conn_01x04 J1
 U 1 1 60A6900F
-P 9100 5800
-F 0 "J1" V 8972 5980 50  0000 L CNN
-F 1 "Conn_Left_I2C" V 9063 5980 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 9100 5800 50  0001 C CNN
-F 3 "~" H 9100 5800 50  0001 C CNN
-	1    9100 5800
+P 9100 5950
+F 0 "J1" V 8972 6130 50  0000 L CNN
+F 1 "Conn_Left_I2C" V 9063 6130 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 9100 5950 50  0001 C CNN
+F 3 "~" H 9100 5950 50  0001 C CNN
+	1    9100 5950
 	0    1    1    0   
 $EndComp
 $Comp
@@ -685,7 +685,7 @@ txcan
 Text Label 9450 3450 0    50   ~ 0
 rxcan
 Wire Wire Line
-	9100 5600 9100 5500
+	9100 5750 9100 5500
 Wire Wire Line
 	9100 5500 11100 5500
 Wire Wire Line
@@ -699,7 +699,7 @@ Wire Wire Line
 Wire Wire Line
 	10900 5300 9000 5300
 Wire Wire Line
-	9000 5300 9000 5600
+	9000 5300 9000 5750
 $Comp
 L Device:R_Small R9
 U 1 1 60BAD654
@@ -926,6 +926,6 @@ Wire Wire Line
 Connection ~ 6150 5050
 Wire Wire Line
 	6150 5050 6150 5550
-Text Notes 9300 5600 0    50   ~ 0
+Text Notes 9300 5650 0    50   ~ 0
 1 - Power in on base board
 $EndSCHEMATC

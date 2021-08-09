@@ -16,7 +16,7 @@ $EndDescr
 Text Notes 7000 6900 0    50   ~ 0
 VCSP DIN Wireless CAN\nCopyright © Åke Hedman, Grodans Paradis AB\nhttps://www.grodansparadis.com\nhttps://www.vscp.org
 Text Notes 10600 7650 0    50   ~ 0
-A
+B
 Text Notes 8100 7650 0    50   ~ 0
 2021-05-20
 $Comp
