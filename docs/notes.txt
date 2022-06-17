@@ -6,3 +6,7 @@ CAN interface using ESP32
 -------------------------
 https://github.com/nopnop2002/esp-idf-CANBus-Monitor
 
+Open standard for connecting devices to Wi-Fi using Bluetooth LE or Serial
+--------------------------------------------------------------------------
+https://www.improv-wifi.com/
+
