@@ -12,4 +12,4 @@ ESP32 based CAN4VSCP FD controller in a single module DIN package with BT and wi
 
 Part of the [VSCP Project](https://www.vscp.org).
 
-Copyright 2021-2022 © Åke Hedman, (Grodans Paradis AB)[https://www.grodansparadis.com]
+Copyright 2021-2025 © Åke Hedman, (Grodans Paradis AB)[https://www.grodansparadis.com]
