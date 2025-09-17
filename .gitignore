@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+
+vscp-din-wireless-esp32-can-backups/*
