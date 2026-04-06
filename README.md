@@ -3,6 +3,8 @@ ESP32 based CAN4VSCP FD controller in a single module DIN package with BT and wi
 
 **Note!** This is still a prototype. ....
 
+The bottom board is here: https://github.com/grodansparadis/vscp-din-m1-base-board-z105
+
 ## PCB's
 ![Control Interface Top](./images/vscp-din-wireless-esp32-can-top.png)
 

@@ -32,4 +32,4 @@
 *.app
 
 
-vscp-din-wireless-esp32-can-backups/*
+kicad/vscp-din-wireless-esp32-can-backups/*
